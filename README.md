@@ -55,18 +55,6 @@ _Updated manually — progress reflects committed solutions only._
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Colby-Threlkeld&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colby-Threlkeld&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Contributions
 
 Want to contribute a different solution or optimization?  
