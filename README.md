@@ -46,7 +46,7 @@ This repository serves as:
 
 | Type          | Solved |
 |---------------|--------|
-| Easy 🟢       | 9/40  |
+| Easy 🟢       | 10/40  |
 | Medium 🟡     | 0/40  |
 | Hard 🔴       | 0/20   |
 | **Total**     | **9/100** ✔️
