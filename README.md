@@ -18,15 +18,14 @@ This repository serves as:
 
 | Category              | Description                                 |
 |-----------------------|---------------------------------------------|
-| 📊 Arrays             | Searching, sorting, and manipulating arrays |
-| 🔤 Strings            | Pattern matching, transformations, parsing  |
-| 🌲 Trees              | Binary trees, BSTs, traversal, recursion    |
-| 🔗 Linked Lists       | Singly, doubly, fast & slow pointer patterns|
-| 📐 Dynamic Programming| Memoization, tabulation, state transitions  |
-| 🧩 Backtracking       | Recursive search and decision trees          |
-| 🧭 Graphs             | DFS, BFS, Dijkstra’s, topological sort       |
-| 🧵 Sliding Window     | Substring and subarray optimizations         |
-| 📚 Stacks & Queues    | Classic data structure usage                |
+| Arrays             | Searching, sorting, and manipulating arrays |
+| Strings            | Pattern matching, transformations, parsing  |
+| Trees              | Binary trees, BSTs, traversal, recursion    |
+| Linked Lists       | Singly, doubly, fast & slow pointer patterns|
+| Backtracking       | Recursive search and decision trees          |
+| Graphs             | DFS, BFS, Dijkstra’s, topological sort       |
+| Sliding Window     | Substring and subarray optimizations         |
+| Stacks & Queues    | Classic data structure usage                |
 
 ---
 
@@ -42,7 +41,7 @@ This repository serves as:
 
 ## 📚 Progress Tracker
 
-> 🎯 Goal: **100 LeetCode Problems in Python/JavaScript**
+> Goal: **100 LeetCode Problems in Python/JavaScript**
 
 | Type          | Solved |
 |---------------|--------|
@@ -51,11 +50,9 @@ This repository serves as:
 | Hard 🔴       | 0/20   |
 | **Total**     | **9/100** ✔️
 
-_Updated manually — progress reflects committed solutions only._
-
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Want to contribute a different solution or optimization?  
 Feel free to fork this repo and open a pull request!
