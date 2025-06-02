@@ -1,5 +1,5 @@
-# link: https://leetcode.com/problems/palindrome-number/description/
-# Problem: Palindrome Number 
+# Link: https://leetcode.com/problems/palindrome-number/description/
+# Problem 9: Palindrome Number 
 
 
 class Solution:
