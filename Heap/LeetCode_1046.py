@@ -1,4 +1,5 @@
-
+# Link: https://leetcode.com/problems/last-stone-weight/description/
+# Problem 1046: Last Stone Weight
 
 
 import heapq
