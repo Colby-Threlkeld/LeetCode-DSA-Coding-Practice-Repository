@@ -48,7 +48,7 @@ This repository serves as:
 | Easy 🟢       | 11/40  |
 | Medium 🟡     | 0/40  |
 | Hard 🔴       | 0/20   |
-| **Total**     | **9/100** ✔️
+| **Total**     | **11/100** ✔️
 
 ---
 
