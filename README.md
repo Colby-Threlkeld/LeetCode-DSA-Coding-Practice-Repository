@@ -22,9 +22,9 @@ This repository serves as:
 | Strings            | Pattern matching, transformations, parsing  |
 | Trees              | Binary trees, BSTs, traversal, recursion    |
 | Linked Lists       | Singly, doubly, fast & slow pointer patterns|
-| Backtracking       | Recursive search and decision trees          |
-| Graphs             | DFS, BFS, Dijkstra’s, topological sort       |
-| Sliding Window     | Substring and subarray optimizations         |
+| Heaps              | Both min and max                            |
+| Graphs             | DFS, BFS, Dijkstra’s, topological sort      |
+| Sliding Window     | Substring and subarray optimizations        |
 | Stacks & Queues    | Classic data structure usage                |
 
 ---
