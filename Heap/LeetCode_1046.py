@@ -1,5 +1,5 @@
 # Link: https://leetcode.com/problems/last-stone-weight/description/
-# Problem 1046: Last Stone Weight
+# Problem 1046: Last Stone Weight (Best Time - 17:51)
 
 
 import heapq
@@ -25,7 +25,7 @@ class Solution(object):
         # if all stones are destroyed, return 0
         return -stones[0] if stones else 0
 
-"""
+'''
 Case 1-
 
 INPUT:
@@ -45,4 +45,4 @@ OOUTPUT:
 1
 
 
-"""
+'''
