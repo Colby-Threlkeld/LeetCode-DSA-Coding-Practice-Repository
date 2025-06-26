@@ -1,7 +1,7 @@
 # 🧠 LeetCode Problem Solving Repository
 
 Welcome to my LeetCode practice repo!  
-I'm **Colby Threlkeld**, a Computer Science student at Georgia State University, and this repository is where I track my progress solving algorithmic problems using Python and JavaScript. My focus areas are **software engineering**, **data science**, and **AI/ML**, and this repo helps me sharpen my problem-solving skills in preparation for technical interviews and real-world challenges.
+I'm **Colby Threlkeld**, a Computer Science student at Georgia State University, and this repository is where I track my progress solving algorithmic problems using Python and JavaScript. This repo helps me sharpen my problem-solving skills in preparation for technical interviews and real-world challenges.
 
 ---
 
@@ -54,9 +54,9 @@ This repository serves as:
 
 ## Contributions
 
-Want to contribute a different solution or optimization?  
-Feel free to fork this repo and open a pull request!
+Please feel free to fork this repo and open a pull request if you have a better solution!
+I'm all ears to new ideas.
 
 ---
 
-Thanks for stopping by — happy coding! 🚀
+Thanks for stopping by — happy coding! 
