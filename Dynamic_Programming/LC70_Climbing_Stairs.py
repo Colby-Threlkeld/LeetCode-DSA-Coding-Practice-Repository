@@ -1,5 +1,5 @@
 # Link: https://leetcode.com/problems/climbing-stairs/description/?envType=problem-list-v2&envId=plakya4j
-# Problem: (Best Time: 30:34)
+# Problem: Climbing Stairs (Best Time: 30:34)
 
 
 # **Fibonacci style problem**
