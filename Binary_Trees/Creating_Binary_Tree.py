@@ -1,10 +1,3 @@
-# creating tree:
-#         1
-#       /   \
-#      2     3
-#     / \   / \
-#    4   5 6   7
-
 class Node:
   def __init__(self, value):
     self.value = value
@@ -70,3 +63,26 @@ def bfs(root):
 
 print("\n\nBFS:")
 bfs(root)
+
+'''
+Tree:
+         1
+       /   \
+      2     3
+     / \   / \
+    4   5 6   7
+    
+Output:
+
+In-Order:
+4 2 5 1 6 3 7 
+
+Pre-Order:
+1 2 4 5 3 6 7 
+
+Post-Order:
+4 5 2 6 7 3 1 
+
+BFS:
+1 2 3 4 5 6 7 
+'''
