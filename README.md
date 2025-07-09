@@ -1,6 +1,7 @@
 # 🧠 LeetCode | DSA | Coding | Practice Repository
 
-Welcome to my coding practice repo!  
+Welcome to my coding practice repo! 
+
 I'm **Colby Threlkeld**, a Computer Science student at Georgia State University, on schedule to graduate in May 2027. This repository is where I store my coding practice problems using Python, JavaScript, SQL, and Pandas. This repo helps me sharpen my problem-solving skills in preparation for technical interviews and real-world challenges. 
 
 My main goal is for the repository to function as a resource for both myself and others to explore, review, and learn from previously solved problems. 
