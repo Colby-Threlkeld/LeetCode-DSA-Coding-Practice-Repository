@@ -24,7 +24,7 @@ This repository serves as:
 | Linked Lists       | Singly, doubly, fast & slow pointer patterns|
 | Heaps              | Both min and max                            |
 | Graphs             | DFS, BFS, Dijkstra’s, topological sort      |
-| Sliding Window     | Substring and subarray optimizations        |
+| SQL/Pandas         | Querying, data cleaning/manipulation    |
 | Stacks & Queues    | Classic data structure usage                |
 
 ---
@@ -33,9 +33,12 @@ This repository serves as:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
