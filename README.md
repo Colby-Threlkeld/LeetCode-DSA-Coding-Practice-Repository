@@ -5,7 +5,7 @@ I'm **Colby Threlkeld**, a Computer Science student at Georgia State University,
 
 ---
 
-## 📌 Purpose
+## Purpose
 
 This repository serves as:
 - A personal archive of LeetCode solutions
@@ -14,7 +14,7 @@ This repository serves as:
 
 ---
 
-## ✅ Problem Categories
+## Problem Categories
 
 | Category              | Description                                 |
 |-----------------------|---------------------------------------------|
@@ -42,7 +42,7 @@ This repository serves as:
 
 ---
 
-## 📚 Progress Tracker
+## Progress Tracker
 
 > Goal: **100 LeetCode Problems in Python/JavaScript**
 
