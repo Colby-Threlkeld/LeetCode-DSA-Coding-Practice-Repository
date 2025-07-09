@@ -1,4 +1,4 @@
-# 🧠 LeetCode Problem Solving Repository
+# 🧠 LeetCode | DSA | Coding | Practice Repository
 
 Welcome to my LeetCode practice repo!  
 I'm **Colby Threlkeld**, a Computer Science student at Georgia State University, and this repository is where I track my progress solving algorithmic problems using Python and JavaScript. This repo helps me sharpen my problem-solving skills in preparation for technical interviews and real-world challenges.
