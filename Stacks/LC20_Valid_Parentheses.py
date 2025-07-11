@@ -1,9 +1,10 @@
 '''
 Link: https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=plakya4j
 
-Problem:  
+Problem: Problem 20: Valid Parentheses (Best Time: 17:45)
 
 Time Complexity: O(n), Space Complexity: O(n)
+
 '''
 
 class Solution(object):
