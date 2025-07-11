@@ -1,4 +1,4 @@
-# 🧠 LeetCode | DSA | Coding | Practice Repository
+#  LeetCode | DSA | Coding | Practice Repository
 
 Welcome to my coding practice repo! 
 
@@ -23,7 +23,7 @@ My main goal is for the repository to function as a resource for both myself and
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
