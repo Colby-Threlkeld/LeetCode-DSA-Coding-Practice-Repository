@@ -1,7 +1,8 @@
 '''
 Link: https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=plakya4j
 
-Problem:
+Problem: Problem 01: Two Sum (Best Time: 6:21)
+
 '''
 
 # brute force methods
