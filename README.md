@@ -42,10 +42,10 @@ My main goal is for the repository to function as a resource for both myself and
 
 | Type          | Solved |
 |---------------|--------|
-| Easy 🟢       | 21/40  |
+| Easy 🟢       | 23/40  |
 | Medium 🟡     | 1/40  |
-| Hard 🔴       | 0/20   |
-| **Total**     | **22/100** ✔️
+| Hard 🔴       | 1/20   |
+| **Total**     | **25/100** ✔️
 
 ---
 
