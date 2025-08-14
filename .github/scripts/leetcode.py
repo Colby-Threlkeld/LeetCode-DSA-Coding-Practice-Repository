@@ -44,5 +44,10 @@ new = re.sub(
     text,
     flags=re.S
 )
+
+# Replace badge placeholders
+new = re.sub(r"(Solved-)(XXX)", fr"\g<1>{total}", new)
+new = re.sub(r"(Ranking-)(YYY)", fr"\g<1>{ranking}", new)
+
 README.write_text(new, encoding="utf-8")
-print("Updated README with LeetCode stats.")
+print("Updated README with LeetCode stats and badges.")
