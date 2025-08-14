@@ -11,7 +11,7 @@ My main goal is for the repository to function as a resource for both myself and
 <!-- LEETCODE:START -->
 <!-- LEETCODE:END -->
 
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/Cthrelkeld/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
   </a>
