@@ -13,7 +13,7 @@ Loading...
 <!-- LEETCODE:END -->
 
 <p align="center">
-  <a href="https://leetcode.com/<Colby_t>/">
+  <a href="https://leetcode.com/<Cthrelkeld>/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
   </a>
   <img src="https://img.shields.io/badge/Solved-%3F%3F%3F-blue" />
