@@ -1,6 +1,6 @@
 import os, requests, re, pathlib
 
-USERNAME = os.getenv("LEETCODE_USERNAME", "<Cthrelkeld>")
+USERNAME = os.getenv("LEETCODE_USERNAME", "Cthrelkeld")
 README = pathlib.Path("README.md")
 
 query = """
