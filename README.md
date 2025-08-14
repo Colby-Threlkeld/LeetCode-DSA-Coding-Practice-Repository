@@ -6,6 +6,13 @@ I'm **Colby Threlkeld**, a Computer Science student at Georgia State University,
 
 My main goal is for the repository to function as a resource for both myself and others to explore, review, and learn from previously solved problems. 
 
+<p align="center">
+  <a href="https://leetcode.com/<Colby_t>/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
+  </a>
+  <img src="https://img.shields.io/badge/Solved-%3F%3F%3F-blue" />
+  <img src="https://img.shields.io/badge/Ranking-%3F%3F%3F-green" />
+</p>
 ---
 
 ## Problem Categories
