@@ -18,8 +18,8 @@ My main goal is for the repository to function as a resource for both myself and
   <a href="https://leetcode.com/Cthrelkeld/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
   </a>
-  <img src="https://img.shields.io/badge/Solved-XXX-blue" />
-  <img src="https://img.shields.io/badge/Ranking-YYY-green" />
+  <img src="https://img.shields.io/badge/Solved-30-blue" />
+  <img src="https://img.shields.io/badge/Ranking-2816976-green" />
 </p>
 
 ---
