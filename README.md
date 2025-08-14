@@ -9,7 +9,9 @@ My main goal is for the repository to function as a resource for both myself and
 ---
 ## LeetCode (live)
 <!-- LEETCODE:START -->
-Loading...
+**Username:** [Cthrelkeld](https://leetcode.com/Cthrelkeld/)  
+**Global Rank:** `2816976`  
+**Solved:** `30` (Easy `28` • Medium `1` • Hard `1`)
 <!-- LEETCODE:END -->
 
 <p align="center">
