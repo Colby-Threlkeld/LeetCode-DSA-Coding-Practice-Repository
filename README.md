@@ -56,7 +56,8 @@ I'm all ears to new ideas.
 
 ...Also lets connect!
 
-LinkedIn: https://www.linkedin.com/in/colby-threlkeld-543b06301/
+LinkedIn: 
 ---
+https://www.linkedin.com/in/colby-threlkeld-543b06301/
 
 Thanks for stopping by — happy coding! 
