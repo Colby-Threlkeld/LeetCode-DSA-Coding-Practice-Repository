@@ -13,15 +13,6 @@ My main goal is for the repository to function as a resource for both myself and
 **Global Rank:** `2816976`  
 **Solved:** `31` (Easy `28` • Medium `2` • Hard `1`)
 <!-- LEETCODE:END -->
-
-<p align="left">
-  <a href="https://leetcode.com/Cthrelkeld/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
-  </a>
-  <img src="https://img.shields.io/badge/Solved-30-blue" />
-  <img src="https://img.shields.io/badge/Ranking-2816976-green" />
-</p>
-
 ---
 
 ## Problem Categories
