@@ -13,6 +13,7 @@ My main goal is for the repository to function as a resource for both myself and
 **Global Rank:** `2767945`  
 **Solved:** `34` (Easy `29` • Medium `4` • Hard `1`)
 <!-- LEETCODE:END -->
+> Goal: **150 LeetCode Problems**
 ---
 
 ## Problem Categories
@@ -40,19 +41,6 @@ My main goal is for the repository to function as a resource for both myself and
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
----
-
-## Progress Tracker
-
-> Goal: **100 LeetCode Problems in Python/JavaScript**
-
-| Type          | Solved |
-|---------------|--------|
-| Easy 🟢       | 28/40  |
-| Medium 🟡     | 1/40  |
-| Hard 🔴       | 1/20   |
-| **Total**     | **30/100** ✔️
 
 ---
 
