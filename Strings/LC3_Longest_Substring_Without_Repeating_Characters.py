@@ -18,4 +18,6 @@ class Solution:
 
 '''
 time: O(n)
+
+"Sliding Window" technique
 '''
