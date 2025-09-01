@@ -10,7 +10,7 @@ My main goal is for the repository to function as a resource for both myself and
 ## LeetCode (live)
 <!-- LEETCODE:START -->
 **Username:** [Cthrelkeld](https://leetcode.com/Cthrelkeld/)  
-**Global Rank:** `2290137`  
+**Global Rank:** `2261005`  
 **Solved:** `45` (Easy `34` • Medium `10` • Hard `1`)
 <!-- LEETCODE:END -->
 > Goal: **150 LeetCode Problems**
